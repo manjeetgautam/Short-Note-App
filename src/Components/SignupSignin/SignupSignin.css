@@ -1,0 +1,29 @@
+.signup-wrapper{
+    width: 50%;
+    min-width: 580px;
+    color: white;
+    border-radius: 5px;
+    box-shadow: var(--shadow);
+    padding: 1rem 0rem 2rem 0rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 1.9rem;
+    
+}
+
+.title{
+    text-align: center;
+    margin: 0.5rem;
+    color: white;
+}
+
+.form-box{
+    margin-top: 2rem;
+}
+
+.clickHere{
+    color: var(--theme-color);
+    cursor: pointer;
+    
+}

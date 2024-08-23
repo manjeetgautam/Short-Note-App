@@ -1,0 +1,21 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+--theme-color: #673ab7;
+--white: #fff;
+--shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: "Gilroy"; */
+
+}
+

@@ -1,0 +1,17 @@
+.theme-button{
+    
+    color: white;
+    border: none;
+    font-size: 1rem;
+    /* font-weight: 500; */
+    border: 2px solid var(--theme-color);
+    border-radius: 2px;
+    /* margin-top: 1rem; */
+    background-color: var(--theme-color) !important;
+    transition: ease-in-out 0.3s;
+}
+
+.theme-button:hover{
+    background-color: transparent !important;
+    color: var(--theme-color);
+}
